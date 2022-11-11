@@ -6,3 +6,5 @@ Directional icons (previous and next Icons ) are shown on the images only when h
 On clicking the icons, it should show the next/previous image. 
 When the next icon on the last image is clicked, it should show the first image.
 When the previous icon on the first image is clicked, it should show the last image.
+---
+### Live link: https://oladetohun1.github.io/Javascript-slideshow/
